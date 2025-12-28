@@ -1,0 +1,12 @@
+{
+  "name": "mystery-boxes-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node api/create-payment-intent.js"
+  },
+  "dependencies": {
+    "stripe": "^14.25.0"
+  }
+}
